@@ -11,7 +11,7 @@ import SwiftUI
 struct FavPlacesAppApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            FavPlaces()
         }
     }
 }
